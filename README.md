@@ -7,7 +7,7 @@ Code of:
 
 To execute a full experiment cycle use the `default` runner in `actpatt_dag/runners`:
 ```bash
-python -m actpatt_dag.runners.default --name "example"
+python -m actpatt_dag.runners.default --name example
 ```
 ## Notebook
 
