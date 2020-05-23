@@ -1,4 +1,4 @@
-# APD-NN
+# Artificial Neural Networks Activation Pattern Diagram (ANNAPD)
 Code of:
 
 > Francesco Craighero, Fabrizio Angaroni, Alex Graudenzi, Fabio Stella, Marco Antoniotti. *Investigating the Compositional Structure Of Deep Neural Networks*.
